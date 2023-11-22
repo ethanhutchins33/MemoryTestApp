@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotMemoryTest", "DotMemoryTest\DotMemoryTest.csproj", "{670F22E2-3977-4852-BDEA-0076AF3FB89B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotMemoryTest.Tests", "DotMemoryTest.Tests\DotMemoryTest.Tests.csproj", "{1ACD7F55-7C47-470A-9C44-D2C0ECBA497B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670F22E2-3977-4852-BDEA-0076AF3FB89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670F22E2-3977-4852-BDEA-0076AF3FB89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670F22E2-3977-4852-BDEA-0076AF3FB89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670F22E2-3977-4852-BDEA-0076AF3FB89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ACD7F55-7C47-470A-9C44-D2C0ECBA497B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACD7F55-7C47-470A-9C44-D2C0ECBA497B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACD7F55-7C47-470A-9C44-D2C0ECBA497B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACD7F55-7C47-470A-9C44-D2C0ECBA497B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
